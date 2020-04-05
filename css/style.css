@@ -1,0 +1,60 @@
+
+.band-1 img{
+  float: right;
+  padding: 10px 10px;
+  opacity: 0.3;
+}
+.sidebar {
+  text-align: center;
+  border: 10px  solid rgba(255, 196, 0, 0.678);
+  padding: 0px -15%;
+  color: gold;
+  font-weight: 900;
+}
+div.sidebar {
+  margin-top: -235px;
+  padding: 15px 15%;
+  opacity: 0.9;
+}
+div.band-2 {
+  padding: 10px 10px;
+  opacity: 0.3;
+}
+h1 {
+  padding: 0px 70px;
+  
+}
+p {
+  padding: 0px 60px;
+}
+li {
+  padding: 0px 25px;
+  list-style: none;
+}
+body {
+  background-image: url(../img/jazz2.PNG);
+}
+  
+
+
+
+
+  
+
+
+   
+    
+
+
+
+
+
+
+
+   
+
+
+        
+
+   
+
